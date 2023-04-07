@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "Slides"
+permalink: /Slides/
+author_profile: true
+---
+
+
+{% include base_path %}
+
+{% for post in site.slides reversed %}
+  {% include archive-single.html %}
+{% endfor %}
