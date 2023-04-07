@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ECOL 596 Home"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
