@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sabrina McNew"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
-  location         : "Ecology and Evolutionary Biology, BSW 326"
+  bio              : "Assistant Professor, EEB"
+  location         : "BSW 326"
   employer         : "University of Arizona"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sabrinamcnew"
+  twitter          : #"sabrinamcnew"
   vine             :
   weibo            :
   xing             :
