@@ -9,12 +9,6 @@ main:
   - title: "Code"
     url: /code/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Files"
+    url: /files/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
